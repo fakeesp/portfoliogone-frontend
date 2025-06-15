@@ -3,6 +3,7 @@
 presentation
 https://docs.google.com/presentation/d/1Yx5AAPTwufLKc-fU3EDenKvTADoIaCat/edit?slide=id.p1#slide=id.p1
 
+https://www.figma.com/design/miuiCa0x2WCTFChQgey9BC/Currency-rate?node-id=0-1&t=5GtDGoKZNxXgS7Og-1
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
